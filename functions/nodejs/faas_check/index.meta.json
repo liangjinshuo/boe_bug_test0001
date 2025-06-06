@@ -1,0 +1,16 @@
+{
+  "apiID": "devopstestisv2903__function_aadiijz34tqcs",
+  "apiName": "faas_check",
+  "label": {
+    "zh_CN": "faas_check",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
